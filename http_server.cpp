@@ -16,7 +16,7 @@ int main()
         std::cout << "请求信息:[" << buf << "]\n";
 
         std::string body;
-        body="<html><body><h1>张文超好帅</h1></body></html>";
+        body="<html><body><h1>秦霄贤好帅</h1></body></html>";
 
         std::string empty_line = "\r\n";
 
